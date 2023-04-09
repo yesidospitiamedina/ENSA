@@ -1,4 +1,2 @@
 # ENSA
-60 audio files of original songs by Colombian artists.
-
-This dataset has been specially designed to study and design musical recommender systems.
+This dataset has been specially designed to study and design music recommendation systems. It contains 60 audio files of original songs by Colombian artists.
